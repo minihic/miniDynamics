@@ -1,0 +1,423 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "miniDynamics-basic",
+    "name": "miniDynamics-basic",
+    "abstract": "miniDynamics modpack without graphics",
+    "author": "Minihic",
+    "version": "2024.03.19.04.14.49",
+    "ksp_version_min": "1.12",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "AdvancedFlyByWire"
+        },
+        {
+            "name": "AnyResContinued"
+        },
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "AvionicsSystems"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Benjee10-SharedAssets"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "BetterCrewAssignment"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "CameraTools"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CommNetAntennasConsumptor"
+        },
+        {
+            "name": "CommNetAntennasInfo"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityDeltaVMaps"
+        },
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasCategory"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoEngines-NFAero"
+        },
+        {
+            "name": "CryoEnginesExtensions"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "DockingPortSoundFX"
+        },
+        {
+            "name": "DraggableNavball"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "FIG"
+        },
+        {
+            "name": "FlagPack"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "HabTech2"
+        },
+        {
+            "name": "HabTechProps"
+        },
+        {
+            "name": "HabTechRobotics"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "HUDReplacer"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "JetSoundsContinued"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "KerbalAtomics-NTRModSupport"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        },
+        {
+            "name": "KerbealisticDocking"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "kOS-AddOns-Ferram"
+        },
+        {
+            "name": "kOS-Astrogator"
+        },
+        {
+            "name": "kOS-KerbalEngineer"
+        },
+        {
+            "name": "KOSHUD"
+        },
+        {
+            "name": "kOSPropMonitor"
+        },
+        {
+            "name": "Kronometer"
+        },
+        {
+            "name": "kRPC"
+        },
+        {
+            "name": "kRPC-MechJeb"
+        },
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "KSPBurst"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "LIME"
+        },
+        {
+            "name": "LunaMultiplayer"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "ManeuverQueue"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "MechJebForAll"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        },
+        {
+            "name": "Mk1CockpitIVAReplbyASET"
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NavballDockAlignIndCE"
+        },
+        {
+            "name": "NavBallTextureChangerUpdated"
+        },
+        {
+            "name": "NavUtilitiesUpdated"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "PartlyColoredSuits"
+        },
+        {
+            "name": "PlanetsideExplorationTechnologies"
+        },
+        {
+            "name": "PreciseNode"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "RCSBuildAid"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "Reviva"
+        },
+        {
+            "name": "RocketSoundEnhancement"
+        },
+        {
+            "name": "RocketSoundEnhancement-Config-Default"
+        },
+        {
+            "name": "ScienceSituationInfo"
+        },
+        {
+            "name": "SensibleScreenshot"
+        },
+        {
+            "name": "Shabby"
+        },
+        {
+            "name": "Shaddy"
+        },
+        {
+            "name": "ShipEffectsContinued"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "SpaceDustUnbound"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "SpeedUnitAnnex"
+        },
+        {
+            "name": "StarilexMk1NeedleIVA"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "SystemHeat-Converters"
+        },
+        {
+            "name": "SystemHeat-FissionEngines"
+        },
+        {
+            "name": "SystemHeat-FissionReactors"
+        },
+        {
+            "name": "SystemHeat-Harvesters"
+        },
+        {
+            "name": "ThroughTheEyesOfaKerbal"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TooManyOrbits"
+        },
+        {
+            "name": "TrackingStationEvolved"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "TweakScale-Redist"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "VesselView-UI-RasterPropMonitor"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "ZTheme"
+        }
+    ],
+    "release_date": "2024-03-19T16:14:49.3952416Z",
+    "kind": "metapackage"
+}
