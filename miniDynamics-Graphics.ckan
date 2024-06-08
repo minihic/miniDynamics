@@ -3,8 +3,8 @@
     "identifier": "miniDynamics-Graphics",
     "name": "miniDynamics",
     "abstract": "miniDynamics Modpack with graphics mods",
-    "author": "Minihic",
-    "version": "2024.03.19.03.59.07",
+    "author": "minihic",
+    "version": "2024.06.08.12.01.11",
     "ksp_version_min": "1.12",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -35,6 +35,12 @@
         },
         {
             "name": "B9PartSwitch"
+        },
+        {
+            "name": "BallisticFoxsNeutralTUFXProfile"
+        },
+        {
+            "name": "BallisticFoxsVintageTUFXProfile"
         },
         {
             "name": "Benjee10-SharedAssets"
@@ -98,6 +104,9 @@
         },
         {
             "name": "CryoTanks-Core"
+        },
+        {
+            "name": "DansTUFXProfile"
         },
         {
             "name": "DE-IVAExtension"
@@ -173,6 +182,9 @@
         },
         {
             "name": "JetSoundsContinued"
+        },
+        {
+            "name": "KASAFlagPackandTUFXProfile"
         },
         {
             "name": "KerbalActuators"
@@ -313,13 +325,13 @@
             "name": "OinkersSkybox"
         },
         {
-            "name": "OuterPlanetsMod"
-        },
-        {
             "name": "Parallax"
         },
         {
             "name": "PartlyColoredSuits"
+        },
+        {
+            "name": "PersistentRotationUpgraded"
         },
         {
             "name": "PlanetShine"
@@ -367,9 +379,6 @@
             "name": "RocketSoundEnhancement-Config-Default"
         },
         {
-            "name": "Scatterer"
-        },
-        {
             "name": "ScienceSituationInfo"
         },
         {
@@ -383,6 +392,9 @@
         },
         {
             "name": "ShipEffectsContinued"
+        },
+        {
+            "name": "SigmasRSSTUFXProfiles"
         },
         {
             "name": "SmokeScreen"
@@ -401,9 +413,6 @@
         },
         {
             "name": "Spectra"
-        },
-        {
-            "name": "Spectra-EVE64kKerbinClouds"
         },
         {
             "name": "Spectra-EVEKerbinLaytheSnow"
@@ -481,6 +490,9 @@
             "name": "TweakScale-Redist"
         },
         {
+            "name": "VantolksTUFXProfiles"
+        },
+        {
             "name": "VesselView"
         },
         {
@@ -499,6 +511,6 @@
             "name": "ZTheme"
         }
     ],
-    "release_date": "2024-03-19T15:59:07.3164917Z",
+    "release_date": "2024-06-08T12:01:11.0937085Z",
     "kind": "metapackage"
 }
